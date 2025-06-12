@@ -45,7 +45,7 @@ def main():
 
 Once configured, run the script from your terminal:
 ```bash
-python your_script_name.py
+python VtLargeFile.py
 ```
 The script will then begin processing the files in the `APK_DIRECTORY`.
 
@@ -108,7 +108,7 @@ def main():
 
 配置完成后，在您的终端或命令行中运行脚本：
 ```bash
-python your_script_name.py
+python VtLargeFile.py
 ```
 脚本将开始自动处理 `APK_DIRECTORY` 目录中的文件。
 
